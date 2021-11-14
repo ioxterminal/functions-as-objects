@@ -1,6 +1,3 @@
-#<<<<
-# the raw data after being read from the delimited file into a Python list, 
-# with a sublist for each product record  or row in the file
 import re
 DEBUG = True
 
